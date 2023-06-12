@@ -1,38 +1,47 @@
 .TitleCard {
-    text-align: center;
-    margin: 20px 5% 5% 5%;
-    height: 125px;
-    /*width: 90%;*/
-    /*background: linear-gradient(156deg, #56c4ff 2%, #2b91ff 85%);*/
-    background: linear-gradient(#4fcbd6 100%);
-    border-radius: 8px;
-    box-shadow: 0px 0px 10px 0px rgb(43 145 255 / 50%);
+  text-align: center;
+  margin: 20px 5% 5% 5%;
+  height: 125px;
+  /*width: 90%;*/
+  /*background: linear-gradient(156deg, #56c4ff 2%, #2b91ff 85%);*/
+  background: linear-gradient(#4fcbd6 100%);
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px 0px rgb(43 145 255 / 50%);
 }
 .CaveCard {
-    /*margin: 10% 5% 5% 5%;*/
-    margin-left: 7%;
-    margin-right: 7%;
-    /*width: 85%;*/
-    border-radius: 8px;
-    box-shadow: 0px 0px 7px 0px rgb(87 250 255 / 50%);
+  /*margin: 10% 5% 5% 5%;*/
+  margin-left: 7%;
+  margin-right: 7%;
+  /*width: 85%;*/
+  border-radius: 8px;
+  box-shadow: 0px 0px 7px 0px rgb(87 250 255 / 50%);
 }
 
 
 .infoCard {
-    margin-left: 5%;
-    margin-right: 5%;
-    width: 90%;
-    /*background: linear-gradient(156deg, #56c4ff 2%, #2b91ff 85%);*/
-    background: linear-gradient(#4fcbd6 100%);
-    border-radius: 8px;
-    box-shadow: 0px 0px 10px 0px rgb(43 145 255 / 50%);
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
+  /*background: linear-gradient(156deg, #56c4ff 2%, #2b91ff 85%);*/
+  background: linear-gradient(#4fcbd6 100%);
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px 0px rgb(43 145 255 / 50%);
+}
+.BlockCard {
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 10px;
+  background: linear-gradient(#4fcbd6 100%);
+  box-shadow: 0px 0px 10px 0px rgb(255 228 196 / 75%);
+  width: 20%;
+  padding: 20vw;
 }
 
 .LastCard {
-    text-align: center;
-    margin-bottom: 20px;
-    margin-left: 5%;
-    margin-right: 5%;
-    border-radius: 8px;
-    box-shadow: 0px 0px 10px 0px rgb(255 0 0 / 50%);
+  text-align: center;
+  margin-bottom: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px 0px rgb(255 0 0 / 50%);
 }
